@@ -1,0 +1,27 @@
+{
+  "name": "broadsides",
+  "version": "0.0.0",
+  "homepage": "https://github.com/takeyourrights/broadsides",
+  "authors": [
+    "Jeff Tickle <jeff@jefftickle.com>"
+  ],
+  "description": "A game of naval battle.",
+  "main": "index.html",
+  "keywords": [
+    "game",
+    "html5",
+    "fabric"
+  ],
+  "license": "GPL",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "fabric": "~1.3.0"
+  }
+}
